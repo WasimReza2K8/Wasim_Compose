@@ -8,4 +8,5 @@ class GitTest {
     val test4 = "asd"
     val test5 = "kadjfh"
     val test50 = "lkndf"
+    val test5 = "kadjfh"
 }

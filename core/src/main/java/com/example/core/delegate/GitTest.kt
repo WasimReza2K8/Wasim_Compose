@@ -8,6 +8,4 @@ class GitTest {
     val test24 = "asd"
     val test3 = "asd"
     val test4 = "asd"
-    val test23 = "asd"
-    val test24 = "asd"
 }

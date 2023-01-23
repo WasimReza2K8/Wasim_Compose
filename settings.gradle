@@ -17,5 +17,3 @@ rootProject.name = "Wasim"
 
 include ':app'
 include ':core'
-include 'modules:feature-testrun'
-include 'modules:feature-testrun-abstract'

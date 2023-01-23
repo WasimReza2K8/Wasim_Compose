@@ -6,5 +6,6 @@ class GitTest {
     val test2 = "asd"
     val test3 = "asd"
     val test4 = "asd"
+    val test5 = "kadjfh"
     val test50 = "lkndf"
 }
